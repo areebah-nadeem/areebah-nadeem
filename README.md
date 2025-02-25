@@ -5,5 +5,5 @@
    <li>💬 Feel free to ask me anything!</li>
    <li>📫 You can reach me at: areebah_nadeem@live.com</li>
    <li>😄 Pronouns: She/Her</li>
-   <li><a href="https://areebah-nadeem-assignment1-comp229-new.onrender.com">PORTFOLIO: https://areebah-nadeem-assignment1-comp229-new.onrender.com</a></li>
+   <li><a href="https://areebah-nadeem.tiiny.site">PORTFOLIO: https://areebah-nadeem.tiiny.site</a></li>
 </ul>
